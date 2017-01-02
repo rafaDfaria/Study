@@ -4,7 +4,7 @@
 
 | Progress | Type | Item | Project(s) | Notes |
 |------|------|------|------------|-------|
-| Started: 01/02/17  | Book | [YDKJS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) | [Project](/projects/ydkjs/chapter1.md)  | [Notes](books/notes/notesCh1Up%26Going.md)   |
+| Started: 01/02/17  | Book | [YDKJS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) | [Project](/projects/ydkjs/chapter1)  | [Notes](books/notes/notesCh1Up%26Going.md)   |
 |   | Book | [YDKJS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) |   |    |
 |   | Book | [YDKJS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) |   |    |
 |   | Book | [YDKJS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar) |   |    |
