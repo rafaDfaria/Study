@@ -1,0 +1,32 @@
+const SPENDING_THRESHOLD = prompt("How much do you want to spend?");
+const TAX_RATE = 0.08;
+const PHONE_PRICE = 99.25;
+const ACESSORY_PRICE = 9.99;
+var bankBalance = prompt("how much do you have?");
+var totalPrice = 0;
+
+function calculateTax(totalPrice){
+return totalPrice * TAX_RATE;
+}
+
+function formatedPrice(totalPrice){
+return "$" + totalPrice.toFixed(2);
+}
+
+// buy phones while have money
+
+while (totalPrice < bankBalance){
+
+// buy a new phone
+totalPrice = totalPrice + PHONE_PRICE;
+	if (totalPrice < SPENDING_THRESHOLD){
+	totalPrice = totalPrice + ACESSORY_PRICE;
+    }
+}
+
+totalPrice = totalPrice + calculateTax(totalPrice);
+
+console.log("You spent: " + formatedPrice(totalPrice));
+if (totalPrice > bankBalance) {
+    console.log ("You can't afford this purchase.");
+}
