@@ -4,13 +4,13 @@
 
 | Progress | Type | Item | Project(s) | Notes |
 |------|------|------|------------|-------|
-| Started: 01/02/17  | Book | [YDKJS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) | [Project](/projects/ydkjs/chapter1)  | [Notes](books/notes/notesCh1Up%26Going.md)   |
+| Started: 02/01/17  | Book | [YDKJS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) | [Project](/projects/ydkjs/chapter1)  | [Notes](books/notes/notesCh1Up%26Going.md)   |
 |   | Book | [YDKJS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) |   |    |
 |   | Book | [YDKJS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) |   |    |
 |   | Book | [YDKJS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar) |   |    |
 |   | Book | [YDKJS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) |   |    |
 |   | Book | [YDKJS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond) |   |    |
-|   | Course | [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)  on edX |   |    |
+|Started: 08/01/17   | Course | [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)  on edX |   |    |
 |   | Book | [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix) |   |    |
 |   | Course | [Introduction to MongoDB using the MEAN Stack](https://www.edx.org/course/introduction-mongodb-using-mean-stack-mongodbx-m101x-0) on edX |   |    |
 |   | Project | FCC Backend - [Timestamp Microservice](https://www.freecodecamp.com/challenges/timestamp-microservice) |   |    |
